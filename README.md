@@ -7,16 +7,16 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/kareem-arafat7/" title="LinkedIn">
     <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/osman__durdag/" title="Instagram">
-    <img width="22" src="https://cdn.simpleicons.org/instagram" />
+    <img width="22" src="https://www.instagram.com/k_areem77" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/" title="Facebook">
-    <img width="22" src="https://cdn.simpleicons.org/facebook" />
+    <img width="22" src="https://www.facebook.com/kareem.arafat.550224" />
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/" title="Discord">
@@ -90,7 +90,7 @@
 <br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KareemArafat/Live-score" title="Live Score"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KareemArafat&repo=Live-Score&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/KareemArafat/Bookly" title="Bookly"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KareemArafat&repo=Bookly&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
