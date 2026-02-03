@@ -1,30 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KareemArafat.KareemArafat">
 
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Kareem+Arafat;Flutter+Developer&center=true&size=30">
+  <a href="https://github.com/KareemArafat">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Kareem+Arafat;Flutter+Developer&center=true&size=30&color=ffffff">
   </a>
 </h1>
 
+
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/kareem-arafat7/" title="LinkedIn">
-    <img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/osman__durdag/" title="Instagram">
-    <img width="22" src="https://www.instagram.com/k_areem77" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/" title="Facebook">
-    <img width="22" src="https://www.facebook.com/kareem.arafat.550224" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/" title="Discord">
-    <img width="22" src="https://cdn.simpleicons.org/discord" />
-  </a>
+  <a href="mailto:kareemarafat72@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/kareem.arafat.550224"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/k_areem77"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kareem-arafat7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h5>
 
-<br>
 
 <p align="center">
   👨‍💻 Flutter Developer with over 1 year of experience in mobile app development  
@@ -33,15 +23,17 @@
   <br>
   📚 Faculty of Science, Alexandria University  
   <br>
+  📍 Alexandria, Egypt  
+  <br>
   ⭐ Grade: Excellent  
   <br>
   📅 Class of 2025
 </p>
 
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-
 <p align="center">
   <img title="Dart" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   &nbsp;&nbsp;
@@ -55,7 +47,7 @@
   &nbsp;&nbsp;
   <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;&nbsp;
-  <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img title="GitHub" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/>
   &nbsp;&nbsp;
   <img title="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   &nbsp;&nbsp;
@@ -63,32 +55,17 @@
 </p>
 <hr>
 
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img align="left" width="390" src="https://streak-stats.demolab.com/?user=KareemArafat&theme=react&border=61dafb&hide_border=true" alt="KareemArafat" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=KareemArafat&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemArafat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KareemArafat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
 
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-
 <div width="100%" align="center">
   <a align="left" href="https://github.com/KareemArafat/Live-score" title="Live Score"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KareemArafat&repo=Live-Score&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/KareemArafat/Bookly" title="Bookly"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KareemArafat&repo=Bookly&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -98,11 +75,7 @@
   <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+
 
 <h4 align="center">
   <a href="https://github.com/KareemArafat?tab=repositories" title="Show Repositories">🔎 Show More </a>
