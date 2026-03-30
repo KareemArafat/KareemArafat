@@ -57,10 +57,16 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<!--
 <br>
 <p align=center>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KareemArafat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+-->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemArafat&theme=tokyonight" />
+</p>
+
 
 
 <h4 align="center">
